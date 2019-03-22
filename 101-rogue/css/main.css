@@ -1,0 +1,26 @@
+/*****BASE STYLES*****/
+
+body{
+  font-family:'Montserrat', sans-serif;
+  color:#000000;
+}
+
+/*****GRID*****/
+
+.top-section{
+  width: 1200px;
+  margin: 0 auto;
+}
+.half-width{
+  width:600px;
+}
+.bottom-section{
+  width:400px;
+  float:left;
+}
+/*****HEADER*****/
+
+header{
+  height:
+  background:
+}
